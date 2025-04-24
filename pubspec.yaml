@@ -1,11 +1,11 @@
-name: parenting_app_flutter
-description: A parenting app built with Flutter.
-publish_to: 'none'
+name: test_app
+description: A simple Flutter app
+publish_to: 'none' # چون فقط برای تست استفاده میشه
 
 version: 1.0.0+1
 
 environment:
-  sdk: ">=3.0.0 <4.0.0"
+  sdk: '>=3.1.0 <4.0.0'
 
 dependencies:
   flutter:
